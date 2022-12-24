@@ -1,0 +1,6 @@
+﻿  main.c
+D:\Github\C_WS\C_basic\BasicType\BasicType\main.c(26,9): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+D:\Github\C_WS\C_basic\BasicType\BasicType\main.c(26,9): warning C4313: 'printf': 서식 문자열의 '%c'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+D:\Github\C_WS\C_basic\BasicType\BasicType\main.c(5,12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+D:\Github\C_WS\C_basic\BasicType\BasicType\main.c(5,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  BasicType.vcxproj -> D:\Github\C_WS\C_basic\BasicType\x64\Debug\BasicType.exe
