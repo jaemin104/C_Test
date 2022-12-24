@@ -1,2 +1,12 @@
-﻿  pointer7.c
-  pointer.vcxproj -> D:\Github\C_WS\C_basic\pointer\x64\Debug\Pointer.exe
+﻿  pointer1.c
+  pointer2.c
+  pointer3.c
+  pointer4.c
+  pointer5.c
+D:\Github\C_WS\C_Test\C_Test\pointer\pointer\pointer5.c(24,9): warning C4047: '=': 'int *'의 간접 참조 수준이 'int (*)[3]'과(와) 다릅니다.
+  pointer6.c
+D:\Github\C_WS\C_Test\C_Test\pointer\pointer\pointer6.c(13,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\Github\C_WS\C_Test\C_Test\pointer\pointer\pointer6.c(13,10): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  pointer7.c
+  코드를 생성하고 있습니다...
+  pointer.vcxproj -> D:\Github\C_WS\C_Test\C_Test\pointer\x64\Debug\Pointer.exe
