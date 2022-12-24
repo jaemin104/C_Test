@@ -1,5 +1,4 @@
 // 포인터 연습
-
 #include <stdio.h>
 int main()
 {
